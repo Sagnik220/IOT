@@ -22,6 +22,10 @@ The first concept is the publish and subscribe system. In a publish and subscrib
 2. Device 2 is subscribed to the same topic as device 1 is publishing in.
 3. So, device 2 receives the message.
 
+#### Workflow
+
+<img src="Image/pubsubflow.png" height="300px">
+
 **1. Mqtt-Publish/mqtt-publish.py**
 
 <img src="Images/mqttscreenshot2.jpg" height="300px">
@@ -29,4 +33,4 @@ The first concept is the publish and subscribe system. In a publish and subscrib
 **1. Mqtt-Subscribe/mqtt-subscribe.py**
 
 <img src="Images/mqttscreenshot1.jpg" height="300px">
-<img src=Images/mqtt_subscribe.png" height="300px">
+<img src=Images/suboutput.png" height="300px">
