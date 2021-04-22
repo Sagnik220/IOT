@@ -33,6 +33,4 @@ The first concept is the publish and subscribe system. In a publish and subscrib
 **2. Mqtt-Subscribe/mqtt-subscribe.py**
 
 <img src="Images/mqttscreenshot1.jpg" height="300px">
-
-**Output:**
-<img src="Images/suboutput.jpg" height="300px">
+<img src="Images/suboutput.jpg" height="250px">
