@@ -14,3 +14,7 @@
 - pip install sklearn
 
 ```
+
+**1. Mqtt-Publish**
+
+<img src="Images/mqttscreenshot2.jpg" height="500px" width="250px">
