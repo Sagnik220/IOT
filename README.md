@@ -24,13 +24,15 @@ The first concept is the publish and subscribe system. In a publish and subscrib
 
 #### Workflow
 
-<img src="Image/pubsubflow.png" height="300px">
+<img src="Images/pubsubflow.jpg" height="200px">
 
 **1. Mqtt-Publish/mqtt-publish.py**
 
 <img src="Images/mqttscreenshot2.jpg" height="300px">
 
-**1. Mqtt-Subscribe/mqtt-subscribe.py**
+**2. Mqtt-Subscribe/mqtt-subscribe.py**
 
 <img src="Images/mqttscreenshot1.jpg" height="300px">
-<img src=Images/suboutput.png" height="300px">
+
+**Output:**
+<img src="Images/suboutput.jpg" height="300px">
