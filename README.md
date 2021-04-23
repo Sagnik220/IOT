@@ -47,6 +47,7 @@ We are using a REST API to connect the data from local system to the cloud platf
 
 1. Code Execution
 <img src="Images/rest.png">
+
 2. Data Representation in Thingspeak
 <img src="Images/thingspeak sensordata.png">
 
