@@ -12,9 +12,11 @@
 - pip install numpy
 - pip install pandas
 - pip install sklearn
+- pip install pyserial
+- pip install requests
 
 ```
-### Test:
+### Mqtt Publish/Subscribe:
 
 The first concept is the publish and subscribe system. In a publish and subscribe system, a device can publish a message on a topic, or it can be subscribed to a particular topic to receive messages
 
