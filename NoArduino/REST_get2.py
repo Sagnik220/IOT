@@ -5,4 +5,4 @@ url = "https://api.thingspeak.com/channels/1368489/fields/1.json?api_key=1DBKVJN
 
 response = json.loads(requests.get(url).content)
 
-print(float(response['feeds'][0]['field1']))
+print(float(response['feeds'][1]['field1']))

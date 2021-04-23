@@ -18,7 +18,6 @@ class NoArduinoComm:
             n = random.randint(0,40)
             self.sensor_data.append(n)
             self.count_arr.append(i)
-        return self.sensor_data,self.count_arr
         
     '''def connectWith(self, number, delay=1):
         ser = serial.Serial(self.serialPort, self.baudRate)
