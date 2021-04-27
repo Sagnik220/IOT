@@ -6,9 +6,8 @@ import pymongo
 app = Flask(__name__)
 
 # MongoDB stuff
-mongo_client = pymongo.MongoClient("mongodb+srv://Sagnik:<password>@cluster0.umqqj.mongodb.net/myFirstDatabase?retryWrites=true&w=majority")
-db = mongo_client.test
-db_connect = mongo_client["iot_server"]  # database name
+mongo_clinet = pymongo.MongoClient("mongodb://localhost:27017/")
+db_connect = mongo_clinet["iot_server"]  # database name
 db_collection = db_connect["sensor_data"]  # collection name
 
 
